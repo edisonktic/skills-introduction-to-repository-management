@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @edisonktic
+/src/backend/database.py      @edisonktic
+/src/backend/routers/auth.py  @edisonktic
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @edisonktic
